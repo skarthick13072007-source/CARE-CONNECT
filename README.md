@@ -614,7 +614,7 @@ Electronics & Communication
           ├── IoT communication
           ├── Wireless notification
           │
-          └── Computer Vision / AI
+          └── Computer Vision 
                     │
                     ├── Image Processing
                     ├── Hand Landmark Detection
@@ -659,34 +659,4 @@ It is not a certified medical device and should not be used as the sole method o
 
 ---
 
-# 👨‍💻 Contributing
 
-Contributions and improvements are welcome.
-
-A typical workflow is:
-
-```bash
-git fork
-git clone
-git checkout -b feature-name
-```
-
-Make your changes, test them, and submit a pull request.
-
-Please do not include real Telegram credentials in commits or pull requests.
-
----
-
-# 📄 License
-
-Choose an appropriate open-source license before publishing the repository, such as the **MIT License**, if you want others to freely use and modify the project.
-
----
-
-## ⭐ Project Summary
-
-> **A computer-vision-based patient assistance system that converts simple hand gestures into predefined Telegram alerts, providing a low-cost and contactless communication mechanism for patients who have difficulty communicating verbally.**
-
-<p align="center">
-  <strong>Built as an ECE assistive-technology project 🚀</strong>
-</p>
